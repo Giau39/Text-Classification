@@ -38,7 +38,6 @@ By using the model trained, this website allows you to use it as a tool to class
 Paste a paragraph of an article that you need to classify in the left area, press `Predict` button and the result will be displayed in the right area.
 
 ![snapedit_1721828995359](https://github.com/user-attachments/assets/76364e53-abfa-462e-9bde-488d72e05ff5)
-
-Thanks to [Dao Thi Ngoc Giau](https://github.com/Giau39) - my friend assisted me in finishing this assignment.
+.
 
 For more information, you can also read the report (Vietnamese version) to understand this session.
